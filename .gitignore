@@ -1,0 +1,16 @@
+node_modules
+.vercel
+.tanstack
+.grok
+screenshots
+artifacts
+*.log
+.DS_Store
+.env
+.env.*
+dist
+.output
+
+# sandbox-only; not part of the app
+AGENTS.md
+.node_modules.lock
